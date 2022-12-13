@@ -14,3 +14,4 @@ My solutions to **[Advent of Code 2022](https://adventofcode.com/2022/)**
 | 9    | ⭐⭐   | [Day 9](https://adventofcode.com/2022/day/9)    | [Day 9](code/day9.py)   |
 | 10   | ⭐⭐   | [Day 10](https://adventofcode.com/2022/day/10)  | [Day 10](code/day10.py) |
 | 11   | ⭐⭐   | [Day 11](https://adventofcode.com/2022/day/11)  | [Day 11](code/day11.py) |
+| 12   | ⭐⭐   | [Day 12](https://adventofcode.com/2022/day/12)  | [Day 12](code/day12.py) |
