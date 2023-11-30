@@ -107,7 +107,6 @@ class Grid:
                         return False
 
 
-"""
 with open('../inputs/day14.txt', 'r') as file:
     grid = Grid('.')
 
@@ -135,7 +134,6 @@ with open('../inputs/day14.txt', 'r') as file:
         res = grid.drop_sand((500, 0))
 
     print(sand_cnt - 1)
-"""
 
 # Day 14 - Part 2
 with open('../inputs/day14.txt', 'r') as file:
